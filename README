@@ -1,0 +1,51 @@
+Στα αρχεία εξόδου δεν εμφανίζεται το μενού. 
+
+===============
+test1: 
+
+MAX_ROOMS: 1
+MAX_COURSES: 3
+Ορίσματα προγράμματος: 20
+
+===============
+test2: 
+ 
+MAX_ROOMS: 1
+MAX_COURSES: 3
+Ορίσματα προγράμματος: 20
+
+===============
+test3:
+ 
+MAX_ROOMS: 1
+MAX_COURSES: 3
+WORKING_DAYS: 1
+WORKING_HOURS: 3
+Ορίσματα προγράμματος: 20
+
+===============
+test4:
+ 
+MAX_ROOMS: 2
+MAX_COURSES: 4
+WORKING_DAYS: 1
+WORKING_HOURS: 3
+Ορίσματα προγράμματος: 20 40
+
+===============
+test5:
+ 
+MAX_ROOMS: 2
+MAX_COURSES: 4
+WORKING_DAYS: 1
+WORKING_HOURS: 3
+Ορίσματα προγράμματος: 20 40
+
+===============
+test6:
+ 
+MAX_ROOMS: 3
+MAX_COURSES: 8
+WORKING_DAYS: 3
+WORKING_HOURS: 5
+Ορίσματα προγράμματος: 10 20 100

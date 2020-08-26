@@ -1,0 +1,181 @@
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+professor course students: 120 added
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+professor course students: 130 added
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+professor course students: 140 added
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+professor course students: 150 added
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+course duration: 140 scheduled in 1
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+
+Capacity: 20
+       MON
+
+10:00   -  
+11:00   -  
+12:00   -  
+
+Capacity: 40
+       MON
+
+10:00  140 
+11:00  140 
+12:00   -  
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+course duration: 120 scheduled in 0
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+
+Capacity: 20
+       MON
+
+10:00  120 
+11:00   -  
+12:00   -  
+
+Capacity: 40
+       MON
+
+10:00  140 
+11:00  140 
+12:00   -  
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+course duration: 130 scheduled in 0
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+
+Capacity: 20
+       MON
+
+10:00  120 
+11:00  130 
+12:00  130 
+
+Capacity: 40
+       MON
+
+10:00  140 
+11:00  140 
+12:00   -  
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+course duration: 150 scheduled in 1
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+
+Capacity: 20
+       MON
+
+10:00  120 
+11:00  130 
+12:00  130 
+
+Capacity: 40
+       MON
+
+10:00  140 
+11:00  140 
+12:00  150 
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
